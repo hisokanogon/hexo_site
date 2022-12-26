@@ -1,4 +1,7 @@
 https://ningning.netlify.app/tutorial-update-history/
+https://ningning.netlify.app/butterfly-plugins-faq/
+https://ningning.netlify.app/chatbot/
+https://ningning.netlify.app/useimage/
 https://ningning.netlify.app/gui018/
 https://ningning.netlify.app/to-do-tutorial/
 https://ningning.netlify.app/release-017/
@@ -11,10 +14,8 @@ https://ningning.netlify.app/update-20221211/
 https://ningning.netlify.app/gui-017/
 https://ningning.netlify.app/renpy-review/
 https://ningning.netlify.app/2022-last-event/
-https://ningning.netlify.app/useimage/
 https://ningning.netlify.app/renpy-overlay/
 https://ningning.netlify.app/character-stats/
-https://ningning.netlify.app/butterfly-plugins-faq/
 https://ningning.netlify.app/upload-your-game-itch-io/
 https://ningning.netlify.app/Transfer-To-Hexo/
 https://ningning.netlify.app/newsletter/
