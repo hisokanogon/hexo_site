@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ningning.netlify.app/2022-last-event/</loc>
+    
+    <lastmod>2022-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ningning.netlify.app/new-year-event-2023/</loc>
     
     <lastmod>2022-12-27</lastmod>
@@ -165,15 +174,6 @@
   
   <url>
     <loc>https://ningning.netlify.app/renpy-review/</loc>
-    
-    <lastmod>2022-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ningning.netlify.app/2022-last-event/</loc>
     
     <lastmod>2022-12-15</lastmod>
     
@@ -835,6 +835,13 @@
   
   <url>
     <loc>https://ningning.netlify.app/tags/%E5%B0%81%E9%9D%A2%E8%A3%BD%E4%BD%9C/</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ningning.netlify.app/tags/%E6%B4%BB%E5%8B%95/</loc>
     <lastmod>2022-12-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

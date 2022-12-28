@@ -1,3 +1,4 @@
+https://ningning.netlify.app/2022-last-event/
 https://ningning.netlify.app/new-year-event-2023/
 https://ningning.netlify.app/animated-title-main-menu/
 https://ningning.netlify.app/Transfer-To-Hexo/
@@ -17,7 +18,6 @@ https://ningning.netlify.app/textbutton/
 https://ningning.netlify.app/update-20221211/
 https://ningning.netlify.app/gui-017/
 https://ningning.netlify.app/renpy-review/
-https://ningning.netlify.app/2022-last-event/
 https://ningning.netlify.app/renpy-overlay/
 https://ningning.netlify.app/character-stats/
 https://ningning.netlify.app/upload-your-game-itch-io/
@@ -97,6 +97,7 @@ https://ningning.netlify.app/tags/%E8%AE%8A%E9%87%8F/
 https://ningning.netlify.app/tags/%E8%A7%92%E8%89%B2%E7%9B%B8%E9%97%9C/
 https://ningning.netlify.app/tags/%E5%B0%8D%E8%A9%B1/
 https://ningning.netlify.app/tags/%E5%B0%81%E9%9D%A2%E8%A3%BD%E4%BD%9C/
+https://ningning.netlify.app/tags/%E6%B4%BB%E5%8B%95/
 https://ningning.netlify.app/categories/Announcement%E5%85%AC%E5%91%8A/
 https://ningning.netlify.app/categories/Hexo/
 https://ningning.netlify.app/categories/%E6%9B%B4%E6%96%B0update/
