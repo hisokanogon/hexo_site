@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>【Suika2】免費視覺小說製作工具 - 有英文&amp;日文版</title>
+      <link href="/suika2/"/>
+      <url>/suika2/</url>
+      
+        <content type="html"><![CDATA[<p>今天的這篇文章呢，要來介紹之前提過的 Suika2</p><ul><li>一直有在關注它的更新然後最近看到它完全進化成值得再次介紹的程度了</li><li>所以再寫了一篇來介紹新版的 Suika</li><li>想知道我對舊版的 Suika 的使用心得的話可以到我的原網站查看窩~</li><li>文章的最下面有付自製的UI素材</li><li>領取的方式也寫在下面了~</li></ul><hr><p>在開始之前如果你還不知道視覺小說是什麼或是不知道為什麼要用其他小眾的平台先讓我來介紹一下視覺小說吧<br>(不要在問我為什麼不用/不學 Unity 之類的問題好嗎)</p><h2 id="視覺小說遊戲到底是在玩什麼"><a href="#視覺小說遊戲到底是在玩什麼" class="headerlink" title="視覺小說遊戲到底是在玩什麼?"></a>視覺小說遊戲到底是在玩什麼?</h2><ul><li>視覺小說 / Visual Novel 是一種以文字和圖像為主要表現手段的互動故事遊戲，它們通常有多種選擇和分支，讓玩家可以影響故事的走向和結局</li><li>它也是日本的一種流行文化產物，也有越來越多的國外創作者和玩家對這類型的遊戲感興趣。</li><li>視覺小說遊戲的類型和風格可以非常多樣，有些是輕鬆幽默的日常喜劇，有些是驚悚刺激的推理懸疑，有些是浪漫感人的愛情故事，有些是奇幻冒險的英雄傳奇，等等</li><li>不同的視覺小說遊戲也有不同的目標群體，有些是專為女性或男性設計的，有些是適合全年齡或限制級的，有些是主打劇情或遊戲性的, etc. </li><li>玩家可以根據自己的喜好和需求，選擇合適的視覺小說遊戲來玩</li><li><p>除了可以帶給玩家娛樂和放鬆，也可以啟發玩家的想像力和創造力，甚至可以讓玩家學習到一些知識和技能</p><ul><li>例如，有些視覺小說遊戲涉及到歷史、文化、科學、哲學等主題，可以讓玩家增廣見聞</li><li>有些視覺小說遊戲包含了解謎、策略、模擬等元素，可以讓玩家鍛煉思維和判斷；有些視覺小說遊戲探討了人性、社會、倫理等問題，能讓玩家反思自己和世界</li></ul></li><li><p>如果你想要製作自己的視覺小說遊戲，那麼你會需要選擇一個適合的遊戲引擎</p></li><li>遊戲引擎是一種軟件，它提供了遊戲開發所需的各種功能和工具，時常專注在視覺小說的引擎還會自帶多種做好的範本可以直接使用也加快了遊戲製作的流程，讓開發者可以更容易地設計和實現自己的想法</li></ul><hr><h2 id="Suika-2：一個開源、跨平台、原生的視覺小說引擎"><a href="#Suika-2：一個開源、跨平台、原生的視覺小說引擎" class="headerlink" title="Suika 2：一個開源、跨平台、原生的視覺小說引擎"></a>Suika 2：一個開源、跨平台、原生的視覺小說引擎</h2><p>現在進入到這篇文章的重點!</p><p>在這篇文章中，我會介紹一個名為 Suika 2 的視覺小說遊戲引擎，它有以下的特點：</p><ul><li><strong>開源</strong>：Suika 2 的原始碼是完全公開的，任何人都可以免費使用、修改和分發它，而不用擔心版權或授權問題。Suika 2 採用了 MIT 協議，這是一種非常寬鬆的開源協議，它允許商業和非商業的使用</li><li><strong>跨平台</strong>：Suika 2 可以在多種平台上運行，包括 Windows、Mac、iOS 和 Android。你可以用 Suika 2 製作出可以在不同設備上玩的遊戲，而不用擔心兼容性或轉換問題。Suika 2 還支持 Web 瀏覽器和 Nintendo Switch 的非官方移植</li><li><strong>原生</strong>：Suika 2 是用 C 語言編寫的，它不依賴於 Web 或 Python 等其他技術。這意味著 Suika 2 可以直接運行在硬件上，而不需要任何中間層或解釋器。這可以提高遊戲的性能和穩定性，並減少資源的消耗</li></ul><p>除了這些基本特點外，Suika 2 還有以下的優勢：</p><ul><li><strong>簡單易用</strong>：Suika 2 提供了輕量而完整的開發工具（Suika 2 Pro），它可以幫助你快速地創建和測試你的遊戲。你可以用滑鼠操作來設計場景、角色、對話和選項，也可以用簡單的指令來控制遊戲邏輯和效果</li><li><strong>輕鬆分發</strong>: Suika 2 Pro 還有一鍵導出功能，你可以指定目標平台並導出你的遊戲。例如，你可以導出 Windows 的安裝包、Web 的數據或 Android/iOS 的原始碼</li><li><strong>輕便靈活</strong>：它適用於各種類型和風格的視覺小說遊戲，無論是女性向、男性向還是全年齡向，無論是短篇還是長篇，無論是單線還是多線，無論是靜態還是動態，你都可以用 Suika 2 來實現你的創意。Suika 2 還支持多語言和 Steam 分發，讓你的遊戲可以觸及更多的受眾</li></ul><h2 id="Suika-2-使用畫面"><a href="#Suika-2-使用畫面" class="headerlink" title="Suika 2 使用畫面"></a>Suika 2 使用畫面</h2><p>現在我們可以從官網下載不同版本的 Suika</p><p><img src="https://telegraph-image-d72.pages.dev/file/843f9736a1d285b6e2f54.png" alt="下載 Suika2"></p><p>你可能會有疑問每個版本有什麼不同下面我會放幾張圖預覽不同的編輯器的外觀</p><h3 id="Suika2-Pro"><a href="#Suika2-Pro" class="headerlink" title="Suika2 Pro"></a>Suika2 Pro</h3><p>編輯器外觀:</p><p><img src="https://telegraph-image-d72.pages.dev/file/dcc899ecd2d3556cf6d21.png" alt="編輯器外觀"></p><p>點擊編輯器的左上角的按鈕可以開始預覽遊戲</p><p><img src="https://telegraph-image-d72.pages.dev/file/117360115d83175bc2dc1.png" alt="預覽遊戲"></p><p>要繼續寫劇本的時候可以按一下 “Pause” 來停止預覽遊戲只是要注意的是它會一直播到當前的句子播放結束</p><p>要修改句子時可以點一下要修改的句子然後點擊更新之後播放就可以看到更改了</p><h2 id="Suika2-Kirara"><a href="#Suika2-Kirara" class="headerlink" title="Suika2 Kirara"></a>Suika2 Kirara</h2><p>編輯器外觀:</p><p><img src="https://telegraph-image-d72.pages.dev/file/ad0746495ddc8f40fa7a1.png" alt="編輯器外觀"></p><p>編輯遊戲腳本的方式是透過從左邊這欄拖進中間的範圍內</p><p>點擊中間範圍的按鈕後就會在右邊出現類似以下的編輯畫面:</p><p><img src="https://telegraph-image-d72.pages.dev/file/3d2166e6277c08a607d12.png" alt="編輯腳本"></p><p>右下的透明範圍的地方可以讓你把不要的幾行拖過去然後就會刪掉那行了<br>或是如果你想預覽專案裡面的圖片的話可以點一下檔案的名字然後圖片預覽就會出現在右下的格子裡面了</p><hr><h2 id="UI-資源"><a href="#UI-資源" class="headerlink" title="UI 資源"></a>UI 資源</h2><p>因為覺得目前的存檔壓，讀檔畫面跟Config畫面不太搭所以自己改了下喜歡的人可以到<a href="https://wningningw.blogspot.com/p/blog-page_8.html">這裡</a></p><ul><li><a href="https://wningningw.blogspot.com/p/blog-page_8.html">傳送們</a></li></ul><p>留言 +1 或是其他字之後點一下標題欄那裏的 “聯絡”<br>之後我就會把資源寄給你啦</p><ul><li>圖片改自原版的 Config 畫面使用的是官方的圖</li><li>所以不太確定能不能公開開放下載</li></ul><p>如果你還沒下載起來不知道設定壓和其他畫面長樣的話以下是個預覽:</p><p>設定畫面:</p><p><img src="https://telegraph-image-d72.pages.dev/file/c555bde2ffe07ee791f55.png" alt="官方設定畫面"></p><p>存/讀檔畫面:</p><p><img src="https://telegraph-image-d72.pages.dev/file/08cec7f738e860a2f803d.png" alt="官方存/讀檔畫面"></p><ul><li>整個顏色之類的都不太搭配所以以下是我從 Config 那邊修改後的存檔/讀檔畫面:</li></ul><p><img src="https://telegraph-image-d72.pages.dev/file/1b4275e8de139a5d05555.png" alt="我改的讀檔畫面"><br><img src="https://telegraph-image-d72.pages.dev/file/2eef4f74d865e8617debe.png" alt="我改的存檔畫面"></p><p>需要的人歡迎留言~</p><hr><p>這篇文章就到這裡拉~<br>下次再見</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 遊戲開發 </category>
+          
+          <category> 遊戲引擎 </category>
+          
+          <category> suika2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> suika2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>由台灣團隊打造的免編程線上AVG遊戲製作工具 【ACG Creator】</title>
       <link href="/acg-creator/"/>
       <url>/acg-creator/</url>
@@ -3097,22 +3126,22 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/artitalk/index.html"/>
-      <url>/artitalk/index.html</url>
+      <title>關於我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<!-- 引用 artitalk --><script type="text/javascript" src="https://unpkg.com/artitalk"></script><!-- 存放说说的容器 --><div id="artitalk_main"></div><script>new Artitalk({    appId: 'XgLN3dTswSxOSfxpjODUtuWm', // Your LeanCloud appId    appKey: '0WL1Pcyb4IYtRI4sx1qkilqy' // Your LeanCloud appKey})</script>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>關於我</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>link</title>
+      <link href="/artitalk/index.html"/>
+      <url>/artitalk/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<!-- 引用 artitalk --><script type="text/javascript" src="https://unpkg.com/artitalk"></script><!-- 存放说说的容器 --><div id="artitalk_main"></div><script>new Artitalk({    appId: 'XgLN3dTswSxOSfxpjODUtuWm', // Your LeanCloud appId    appKey: '0WL1Pcyb4IYtRI4sx1qkilqy' // Your LeanCloud appKey})</script>]]></content>
       
     </entry>
     
@@ -3130,44 +3159,11 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Gallery</title>
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
       
         <content type="html"><![CDATA[<p>放置我製作的GUI</p><div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://public-files.gumroad.com/7xj350clewo1r7lyvwhozxd03hkk' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">GUI素材</div>  <p>我自製的GUI素材</p>  <a href='/gallery/photo/gui'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.itch.zone/aW1hZ2UvMTU1OTc5NS85MTAzOTE3LmpwZw==/original/u37uzM.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景素材</div>  <p>我加工&製作的背景素材</p>  <a href='/gallery/photo/bg'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/pwa/manifest.json"/>
-      <url>/pwa/manifest.json</url>
-      
-        <content type="html"><![CDATA[{"name":"string","short_name":"Junzhou","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"images/pwaicons/36.png","sizes":"36x36","type":"image/png"},{"src":"images/pwaicons/48.png","sizes":"48x48","type":"image/png"},{"src":"images/pwaicons/72.png","sizes":"72x72","type":"image/png"},{"src":"images/pwaicons/96.png","sizes":"96x96","type":"image/png"},{"src":"https://ningning.netlify.app/pwa/images/pawicons/144.png","sizes":"144x144","type":"image/png"},{"src":"images/pwaicons/192.png","sizes":"192x192","type":"image/png"},{"src":"images/pwaicons/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -3196,17 +3192,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/images/pawicons/manifest.json"/>
-      <url>/images/pawicons/manifest.json</url>
-      
-        <content type="html"><![CDATA[{"name":"string","short_name":"Junzhou","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","externally_connectable":{"matches":["*://*.google.com/*"]},"icons":[{"src":"images/pwaicons/36.png","sizes":"36x36","type":"image/png"},{"src":"images/pwaicons/48.png","sizes":"48x48","type":"image/png"},{"src":"images/pwaicons/72.png","sizes":"72x72","type":"image/png"},{"src":"images/pwaicons/96.png","sizes":"96x96","type":"image/png"},{"src":"images/pwaicons/144.png","sizes":"144x144","type":"image/png"},{"src":"images/pwaicons/192.png","sizes":"192x192","type":"image/png"},{"src":"images/pwaicons/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tools</title>
       <link href="/tools/index.html"/>
       <url>/tools/index.html</url>
@@ -3218,11 +3203,44 @@
     
     
     <entry>
-      <title>GUI</title>
-      <link href="/gallery/photo/gui/index.html"/>
-      <url>/gallery/photo/gui/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<div class="tip home"><p>我自製的UI素材 | 因為很麻煩所以沒有放上全部的素材 </p></div><h2 id="GUI素材-001-【黑白恐怖風】"><a href="#GUI素材-001-【黑白恐怖風】" class="headerlink" title="GUI素材 001 【黑白恐怖風】"></a><a href="https://smileflower.gumroad.com/l/Vn-GUI-003?layout=profile">GUI素材 001 【黑白恐怖風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTI4LnBuZw==/original/SOIxvY.png" alt="00"><br><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTQ1LnBuZw==/original/arKffS.png" alt="設定"><br><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTQxLnBuZw==/original/SIMbSg.png" alt="關於"><br><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTM1LnBuZw==/original/cu8bY5.png" alt="存檔"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-GUI-003?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-003-【現實森林風】"><a href="#GUI素材-003-【現實森林風】" class="headerlink" title="GUI素材 003 【現實森林風】"></a><a href="https://smileflower.gumroad.com/l/VN-GUI-001?layout=profile">GUI素材 003 【現實森林風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTI4LnBuZw==/original/SOIxvY.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTE2MTA4Mi82NzUxNTYzLnBuZw==/original/REwHQ4.png" alt="設定"><br><img src="https://img.itch.zone/aW1hZ2UvMTE2MTA4Mi82NzUxNTY0LnBuZw==/original/VdrwEs.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTE2MTA4Mi82NzUxNTYyLnBuZw==/original/azQtOO.png" alt="讀檔"></p>          </div><p><iframe width="785" height="510" src="https://www.youtube.com/embed/iFzEvXPPmiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/VN-GUI-001?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-007-【校園風】"><a href="#GUI素材-007-【校園風】" class="headerlink" title="GUI素材 007 【校園風】"></a><a href="https://smileflower.gumroad.com/l/Vn-GUI-007?layout=profile">GUI素材 007 【校園風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTIwMTk1Ny83MDEyMjEzLnBuZw==/original/foYG7y.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTIwMTk1Ny83MDEyMjE2LnBuZw==/original/kKfIhc.png" alt="Navigation"><br><img src="https://img.itch.zone/aW1hZ2UvMTIwMTk1Ny83MDEyMjE0LnBuZw==/original/b2x1fR.png" alt="設定"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-GUI-007?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-009-【愛麗絲夢遊仙境童話風】"><a href="#GUI素材-009-【愛麗絲夢遊仙境童話風】" class="headerlink" title="GUI素材 009 【愛麗絲夢遊仙境童話風】"></a><a href="https://smileflower.gumroad.com/l/Vn-GUI-009?layout=profile">GUI素材 009 【愛麗絲夢遊仙境童話風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1nLzc5NDQ0MTYucG5n/original/wz6glE.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0MzcxLnBuZw==/original/FBSUwY.png" alt="對話紀錄"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0Mzc4LnBuZw==/original/ywQQ7G.png" alt="設定"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0MzY4LnBuZw==/original/jjsntZ.png" alt="相簿"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0Mzc1LnBuZw==/original/vxi8fK.png" alt="設定2"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-GUI-009?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-011-【戀愛模擬風】"><a href="#GUI素材-011-【戀愛模擬風】" class="headerlink" title="GUI素材 011 【戀愛模擬風】"></a><a href="https://smileflower.gumroad.com/l/VN-GUI-011?layout=profile">GUI素材 011 【戀愛模擬風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTQ3NzQ4MC84NjE2NTcyLnBuZw==/original/2mw0FM.png" alt="封面"><br><img src="https://public-files.gumroad.com/pe6o2t7e416366k7w4sobk67vvc0" alt="對話框"><br><img src="https://public-files.gumroad.com/7xj350clewo1r7lyvwhozxd03hkk" alt="中文版封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTQ3NzQ4MC84NjE2NTcwLnBuZw==/original/tkLvK6.png" alt="好感房間"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://flurly.com/p/gui-011"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-014-【夢境回憶風】"><a href="#GUI素材-014-【夢境回憶風】" class="headerlink" title="GUI素材 014 【夢境回憶風】"></a><a href="https://smileflower.gumroad.com/l/VN-GUI-014?layout=profile">GUI素材 014 【夢境回憶風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1nLzk4NjgxNzYucG5n/original/qrHgf1.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTY3NTY2NC85ODY4MTU3LnBuZw==/original/kRGB8Q.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTY3NTY2NC85ODY4MTU2LnBuZw==/original/ddCiB9.png" alt="中文版封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTY3NTY2NC85ODY4MTU0LnBuZw==/original/JB30B2.png" alt="選像"></p>          </div><p><iframe width="920" height="510" src="https://www.youtube.com/embed/iCck-EY-jyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/VN-GUI-014?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-016-【色彩校園】"><a href="#GUI素材-016-【色彩校園】" class="headerlink" title="GUI素材 016 【色彩校園】"></a><a href="https://smileflower.gumroad.com/l/Vn-gui-016?layout=profile">GUI素材 016 【色彩校園】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODA5NC5wbmc=/original/hox2ME.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODA5My5wbmc=/original/VcrjVy.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODExNC5wbmc=/original/WV7TyM.png" alt="對話"><br><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODExMy5wbmc=/original/JBSuWE.png" alt="對話紀錄"><br><img src="https://img.itch.zone/aW1nLzEwNTA0Mjk5LmpwZw==/original/3gVz1K.jpg" alt="選像"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-gui-016?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/images/pawicons/manifest.json"/>
+      <url>/images/pawicons/manifest.json</url>
+      
+        <content type="html"><![CDATA[{"name":"string","short_name":"Junzhou","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","externally_connectable":{"matches":["*://*.google.com/*"]},"icons":[{"src":"images/pwaicons/36.png","sizes":"36x36","type":"image/png"},{"src":"images/pwaicons/48.png","sizes":"48x48","type":"image/png"},{"src":"images/pwaicons/72.png","sizes":"72x72","type":"image/png"},{"src":"images/pwaicons/96.png","sizes":"96x96","type":"image/png"},{"src":"images/pwaicons/144.png","sizes":"144x144","type":"image/png"},{"src":"images/pwaicons/192.png","sizes":"192x192","type":"image/png"},{"src":"images/pwaicons/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/pwa/manifest.json"/>
+      <url>/pwa/manifest.json</url>
+      
+        <content type="html"><![CDATA[{"name":"string","short_name":"Junzhou","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"images/pwaicons/36.png","sizes":"36x36","type":"image/png"},{"src":"images/pwaicons/48.png","sizes":"48x48","type":"image/png"},{"src":"images/pwaicons/72.png","sizes":"72x72","type":"image/png"},{"src":"images/pwaicons/96.png","sizes":"96x96","type":"image/png"},{"src":"https://ningning.netlify.app/pwa/images/pawicons/144.png","sizes":"144x144","type":"image/png"},{"src":"images/pwaicons/192.png","sizes":"192x192","type":"image/png"},{"src":"images/pwaicons/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
       
     </entry>
     
@@ -3234,6 +3252,17 @@
       <url>/img/pawicons/manifest.json</url>
       
         <content type="html"><![CDATA[{"name":"string","short_name":"Junzhou","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","externally_connectable":{"matches":["*://*.google.com/*"]},"icons":[{"src":"images/pwaicons/36.png","sizes":"36x36","type":"image/png"},{"src":"images/pwaicons/48.png","sizes":"48x48","type":"image/png"},{"src":"images/pwaicons/72.png","sizes":"72x72","type":"image/png"},{"src":"images/pwaicons/96.png","sizes":"96x96","type":"image/png"},{"src":"images/pwaicons/144.png","sizes":"144x144","type":"image/png"},{"src":"images/pwaicons/192.png","sizes":"192x192","type":"image/png"},{"src":"images/pwaicons/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GUI</title>
+      <link href="/gallery/photo/gui/index.html"/>
+      <url>/gallery/photo/gui/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip home"><p>我自製的UI素材 | 因為很麻煩所以沒有放上全部的素材 </p></div><h2 id="GUI素材-001-【黑白恐怖風】"><a href="#GUI素材-001-【黑白恐怖風】" class="headerlink" title="GUI素材 001 【黑白恐怖風】"></a><a href="https://smileflower.gumroad.com/l/Vn-GUI-003?layout=profile">GUI素材 001 【黑白恐怖風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTI4LnBuZw==/original/SOIxvY.png" alt="00"><br><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTQ1LnBuZw==/original/arKffS.png" alt="設定"><br><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTQxLnBuZw==/original/SIMbSg.png" alt="關於"><br><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTM1LnBuZw==/original/cu8bY5.png" alt="存檔"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-GUI-003?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-003-【現實森林風】"><a href="#GUI素材-003-【現實森林風】" class="headerlink" title="GUI素材 003 【現實森林風】"></a><a href="https://smileflower.gumroad.com/l/VN-GUI-001?layout=profile">GUI素材 003 【現實森林風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTE1NDQ2MS82NzA4MTI4LnBuZw==/original/SOIxvY.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTE2MTA4Mi82NzUxNTYzLnBuZw==/original/REwHQ4.png" alt="設定"><br><img src="https://img.itch.zone/aW1hZ2UvMTE2MTA4Mi82NzUxNTY0LnBuZw==/original/VdrwEs.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTE2MTA4Mi82NzUxNTYyLnBuZw==/original/azQtOO.png" alt="讀檔"></p>          </div><p><iframe width="785" height="510" src="https://www.youtube.com/embed/iFzEvXPPmiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/VN-GUI-001?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-007-【校園風】"><a href="#GUI素材-007-【校園風】" class="headerlink" title="GUI素材 007 【校園風】"></a><a href="https://smileflower.gumroad.com/l/Vn-GUI-007?layout=profile">GUI素材 007 【校園風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTIwMTk1Ny83MDEyMjEzLnBuZw==/original/foYG7y.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTIwMTk1Ny83MDEyMjE2LnBuZw==/original/kKfIhc.png" alt="Navigation"><br><img src="https://img.itch.zone/aW1hZ2UvMTIwMTk1Ny83MDEyMjE0LnBuZw==/original/b2x1fR.png" alt="設定"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-GUI-007?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-009-【愛麗絲夢遊仙境童話風】"><a href="#GUI素材-009-【愛麗絲夢遊仙境童話風】" class="headerlink" title="GUI素材 009 【愛麗絲夢遊仙境童話風】"></a><a href="https://smileflower.gumroad.com/l/Vn-GUI-009?layout=profile">GUI素材 009 【愛麗絲夢遊仙境童話風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1nLzc5NDQ0MTYucG5n/original/wz6glE.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0MzcxLnBuZw==/original/FBSUwY.png" alt="對話紀錄"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0Mzc4LnBuZw==/original/ywQQ7G.png" alt="設定"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0MzY4LnBuZw==/original/jjsntZ.png" alt="相簿"><br><img src="https://img.itch.zone/aW1hZ2UvMTM2NDY1Ni83OTQ0Mzc1LnBuZw==/original/vxi8fK.png" alt="設定2"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-GUI-009?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-011-【戀愛模擬風】"><a href="#GUI素材-011-【戀愛模擬風】" class="headerlink" title="GUI素材 011 【戀愛模擬風】"></a><a href="https://smileflower.gumroad.com/l/VN-GUI-011?layout=profile">GUI素材 011 【戀愛模擬風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTQ3NzQ4MC84NjE2NTcyLnBuZw==/original/2mw0FM.png" alt="封面"><br><img src="https://public-files.gumroad.com/pe6o2t7e416366k7w4sobk67vvc0" alt="對話框"><br><img src="https://public-files.gumroad.com/7xj350clewo1r7lyvwhozxd03hkk" alt="中文版封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTQ3NzQ4MC84NjE2NTcwLnBuZw==/original/tkLvK6.png" alt="好感房間"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://flurly.com/p/gui-011"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-014-【夢境回憶風】"><a href="#GUI素材-014-【夢境回憶風】" class="headerlink" title="GUI素材 014 【夢境回憶風】"></a><a href="https://smileflower.gumroad.com/l/VN-GUI-014?layout=profile">GUI素材 014 【夢境回憶風】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1nLzk4NjgxNzYucG5n/original/qrHgf1.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTY3NTY2NC85ODY4MTU3LnBuZw==/original/kRGB8Q.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTY3NTY2NC85ODY4MTU2LnBuZw==/original/ddCiB9.png" alt="中文版封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTY3NTY2NC85ODY4MTU0LnBuZw==/original/JB30B2.png" alt="選像"></p>          </div><p><iframe width="920" height="510" src="https://www.youtube.com/embed/iCck-EY-jyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/VN-GUI-014?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div><h2 id="GUI素材-016-【色彩校園】"><a href="#GUI素材-016-【色彩校園】" class="headerlink" title="GUI素材 016 【色彩校園】"></a><a href="https://smileflower.gumroad.com/l/Vn-gui-016?layout=profile">GUI素材 016 【色彩校園】</a></h2><div class="fj-gallery"><p><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODA5NC5wbmc=/original/hox2ME.png" alt="封面"><br><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODA5My5wbmc=/original/VcrjVy.png" alt="存檔"><br><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODExNC5wbmc=/original/WV7TyM.png" alt="對話"><br><img src="https://img.itch.zone/aW1hZ2UvMTc4NjQxMi8xMDQ5ODExMy5wbmc=/original/JBSuWE.png" alt="對話紀錄"><br><img src="https://img.itch.zone/aW1nLzEwNTA0Mjk5LmpwZw==/original/3gVz1K.jpg" alt="選像"></p>          </div><div class="btn-center"><a class="btn-beautify blue larger" href="https://smileflower.gumroad.com/l/Vn-gui-016?layout=profile"   title="下載連結"><i class="far fa-hand-point-right"></i><span>下載連結</span></a></div>]]></content>
       
     </entry>
     
