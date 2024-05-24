@@ -6,7 +6,7 @@
   <link href="https://ningning.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://ningning.netlify.app/"/>
-  <updated>2024-05-12T18:50:18.770Z</updated>
+  <updated>2024-05-24T06:58:28.757Z</updated>
   <id>https://ningning.netlify.app/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在封面上添加BGM【Renpy UI教學】</title>
+    <link href="https://ningning.netlify.app/main-menu-music/"/>
+    <id>https://ningning.netlify.app/main-menu-music/</id>
+    <published>2024-05-21T22:00:00.000Z</published>
+    <updated>2024-05-24T06:58:28.757Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密碼錯誤! 請再次確認密碼!" data-whm="這個解密後的內容無法驗證，不過你還是可以看看的。">  <script id="hbeData" type="hbeData" data-hmacdigest="e59273d0f46abe63a5f83f7fc17f292983255deeac28639a7387d3a52c710852">2833e770c40418b0b0ab1a4d27621729a153f3600af834c6d2d3f0d40e24bc8eb19f84966c56a3a09c16350b42ba9bcd23e4fd2ee7941ab3105183e5d38a5fda47b16cefd0190cac1d4474d26bd35472154bcb89182003e4118e15483cbf74a0ad2ce088d65a47576ed9d71edd84a07d46ea358574fdad38e58f1c905a69a61391be97cbbc502063dadfc2dea8fb52396d04d9c359bb882eb5c0e397371872cee2fb31938e138684256c6ad0b06a86cbcf37954f5eb3b44465ae669c8e7affff5c9834370d56f11f8a2d01872729b2ebe8eeb385a52acbe9fa7f12bd2a95728a5fe6bcbb42e570adf8fd8eef6da034c895a9e501f9e393e9524da0ed7ee99d2eec0ba8ef02565522bd4eeeac2ac088f81f54d19eb0c7421b6706893acbd8aea11f68c8c5200f6a4090c5c81296ca8d80d1a178f4cad309ad90997197b06f08e5ab9b4ba877c5ac012690712f76e9d11951187cdf1bc7bd271e5c3ad193ba2a5035f4f54514258403354b40289a992304719915504fbfc9e2cc74eabd75774bf4903584e17a072d1af0b0b98fd6c1911b186efdf162a4d43ee50e74dc2666f6e0e627f9e87f6fdaf9e935d2fb047c118028cfc62482dbb01c7b84220fdd0250738da0b562ecbfaf01cfc0769a9764381241affb6652ee297d543a3f95f719da8ed5aebacc61a4bce8452d605b0111b36c793b8a6ce77232a89d383b0e6b4bd5c0c688d1f6e99e94bf12c6a9b4be5fb81ac104adbb5385e1ed27b38e9019f30e7926a342a332ff044e6babc254b77e6bd756ed3c6f73ceb86cf0100eca29dab79fc18e2c2873afdf6fa4db93a3fce9ebae6e237d4b5b210660e4e2dfd8340e588e95628fde23d029681aed951a7331d38c2e2f7572068b2e2dd010ab1facd8007b6e862d761126f22a0a93677c2661068834251da29e4428284bd2093b81486d7d6d201b076e8800aa94b7adc51be4cccfec148fae7fb012808f4e8e4dcdeed5c8f4e21e078bf7e26e89cc46a58b8c2158eb12c3eb8fdf221a662e5df15327ca2242d1afb0499ac3da059d73914693cb0d4a85b37b89b6d43afbd0862b1d5f119096303131e05e1fe6c017d71093eee989362b4079de6076ea70fe66388f436d39b92eda5154ce3f6fc6b7cf8d40f6f9df8466c02492486f8af8c7340dd79cfd3e0ceec9876c25884fa4572da831a5c34ad642809cfd45772dbcd56f82f27a092531329776d62f4551e2746b291747f3494d0a251217ca95dfecc4b726f3f58f6806130099a256c7c8e1e3103d179c8bc3ee0b9eee65a554c6ce347f0f394d1b33631308a3dbf717748a887702e547a1b12c7f9569f3288dae260d1839bc65531947015550bc7d11f98f752da974ef4413c67d69b17707bbd447bc92be7cf2c01afe78fae5b610e7a51950745efa8fbe964e21c1bd620cfb46ea21fbc9d3998c66760732a01b43c1b3e60fbd93ea38d4b2760f93e1c378fd2ce730e3ec984a7b6a37ad5a40547ca0e7ada939da131f12cdcb896e9b988a40529c64bfe93255c8b583225cd453f85ba3c67c23bc18d721d60dfb3a18b0d4dc1468e4c3a81c5fe72dcfa5bdadbfca83f32c8b7f6218b388b98f7b08f7e34c20e0f33ae21bae7b1ae00f2077022c7a18bfb8ebf4e15082720180462e9be6b69b3d81e4ef204d04e2a18aef8dae71c9998b2e15632a70604faedfe4c91ad5033ff71cbc5ca737f391e09a2e8b588cf5ecb17d78db27e48d52afad5310c5587b69962391a2af8b9726bf49c5563a3b1e506d603785bc9e0cb5492d233c90cbd04cd52776248c88e0fdc84725208274472019b2501468ae70161e43c74c7176a4feaaafe2843529f27fef88a9a10c5516cf39c583718fb340932f515289c4aefc227de568cde7a621d00314ee505e740605bb0be535ddbfc8723f8589b01c1b3b3d709025644838fbd700e06d66eb23a35ce754bf28388b6748f2af87c132351b9b833261a7f9387fe4ff0bd95f36f2ad83af74e884489dd5bbaabb8e94279eb46cb6aaeb92223714e4c6d5f4ef4a019a561a7ca8fdf7529e482fd3da7878c046526ff74f39394a78102cd5da050860daf23902bc3defa51b77bc7ae2c2dac7ced956d8319b3f36f279480bc1c7b6f45c91ae9f5ebac6e752e5002c7ffc86fb6a7199dc69d0fc270a58214c046dd263890e72e9add13b7ca65afabbd60604a5a016ae24b3a9583309e9c16de32f91f4045ee7f00bf598284f05ac142d4633b4df45f1e7bf8621be03f7c2d2f685123943f0ca089a2ed11acbc918655ce47a95c06fae6f59185eab00a7da6710eebfcd67c2db9c716c374b49612ab9d8b7002e5c9c7555a9ae4adb63a1cdf274fce3944ecbf4c86b51c3c76e1d04494bf18a3af010044c8c7b05bd1f502cadc9ae3a75acdfa918fc715bd57178ca88ad7ac1d27fb0b05655ec11aa6cb294bbc09e4a666fbd9ea0386de9c3d311aaa1e0449504a56b8662dcb1b806aca6466e162eb700d63123c144138ce4deeb92ca64070900424019ae48da561f6f429aa34c4f3a1b5100eddf65f0237cb75a3f8067f4f1d744a50ea3c3cb10633648967e1056e70f6f6b086c224ffcacf0792351a547b520138e758e8529bf0c0874c4527153333f18525b958aeac74a3ffc99b8248fb219129240994d4b5dd930a62272063b123c16b1ba03709c541b489dda94d973a804f794520b09f4dfe81215ac9bab53f93346f7bbb9029f86a9efad87d2931a0a45d08dc5cbea8b927d256f3e906cf94cc49472b198cf9558c211d3a8df9323ea6fc4badb930674901619b1dc8377e91f3c7edda2089424832c09d030ded63d68b4ff0f985c5379e60e32505d5fe64c1a7ebb52a16c95205c8550e574e8555269dea93a89894db5522f55ce2abb12379f5ee9457c2f97e065741fe0ef7b795a8a72200bc5798433cf083513679dfd860a8e8161e13f44e4473fd7ffe33906662170160114f441b49c581a57b4eb2a0e4894a590a78e87d3b91af46dac5b05dffbf427843d70d0c3d150102de2209007e34d92892ac2f109598853e7c8c5e74f46728b31c99cd96e2f11b59942496410db892d3d8dd02af85303fa1a5be24b7211a3055619438006467a47320562e9c68dc02fa3231ceb3466313d73111132172772e8c4a17044ca9593a1f7c21273279cdf94ea0007db6fe2297d755e6d8cebb91602bec9e49cf92358555721baafa638531c6fdd6cb565cc0b272c29d0eeac8f9d83f072c1205d3ad76a292885d50f0a49929579ec1c06abba43c1297b3263c1131d427c2c9e3c07b4885851718c6e3b076de00af5199e837ce2bc55cbf50ea7b7cb4c54604b27c9467c4f5effd8b1179bfc98dd2fa122c80ddd2415d7c5b21d97a9312a1767e1113aeb63aa73dce9a99c52bbd6d23e4182714e273287db100e168c8139e820ec4dbdd93eabea3233232769747ad1e15f8b9591dc961a3dfc6e347b65363446a5eef8fe1bc0c9619c3335a45227b458de8446e2aaab86a8e8a1d9fb909f866f54f4bb3f3cf017f509aab73abd4e431e97e53b63233eeaddb179ffebd813fd984d348d4420496673dee08be2fef21097e647dd34764319769a4bc8fd783969b2aef6e6f7d058c0335dca3f9b361df78fbc6254da22fa9fd03a92308adf5cc57eaca31f4b279cd8bbc154433ac296b8c405791af328d1debc86022bfc00729f42455829aeeaa09badcb05174ef53cab5cf2c292b303ffb7372d4baf865771989c8457f6d1f82a2daefe2a2565166bb61728643b7ec6dfbcd0410ba244a1177617a68a9085e9305ed65d05b2fbf9a6534ba51332f1ca6853f516360257bccd051b88e4bb6f2c17f4f506b8a4ea4e71f0d9393db1eefa405e128da29253566cddb9d6ac33e488d468c30202e205049dcced0cafad66c84317ed1cd27b5c62450e7c738d3f1bd61aeb41e0a82695b08fd077d7eaf74e88ba0ea5db56f6edd86c65f59a3f7d22edafa5deeb4afc1628ad5ec157aaa97ebe1041f18de039052ad3e39b52798de9a30d69dd7312f87098d6b7cdb8ba5714cf94d8fb018e275038e591f7c8b137a31caea7d4798e1b5153dd00d3ddd30bd6b552a1d1024c7cf11ebba85f30e6361645c0d2df9d381ed2ebc95b9c27cac03cd082a61a10496eb92a088ee4d180659f94a8f0e1c4a73b46fe16d9051b494556acc55a08616beed41f6da70bb2663ac12558697d31004499ea37ff89c2c03d89a4d82137b7935fbeb0e743fac9c2fca04553e63dd0b9c25ec9b5246c1e8715ce72fc116ce0482650d6e864a1403f4a2fa4e26eb1bcef01e36035c6b2273b75132d9d83d9dd2c9ff6cf271fb59fc83f39faa2d53691a4fea9995f4bed4aea620ef83f0f9c23e8c918ff745ec74d25363567b0231ba707bd9911cce3a96f8ee9350b478952548e30b9f49f1cd89582114706a4b470f8aaca033315c2b90a09e02f7fef7ae81d973f1d73565deb5a42b72507bfecfda7aa93c98e0f7409089d34b3520745f9b977d4be7783090acc7042c95fbb6160d631a8bbdaf95519485d9f617ec0827d7df16c9b4c8b85d106ff89e6fd371fdbe71c4069028a1f78c77b8a2c23334b499306953df9ad485f1614a6f43989dde5fb0e76bd812a9aec3c001b9c47d5048088d32cb76271e54185de7bdbee6e0610ab86c3a0ee46c6dbd77c602f246f945870e2f3d573f140b2a18267bc88a2ccaa2c66b7ee4d59fa02540ea91d5c33ccfa80aa95f4b5aacccdca61f780b0e6bb74aa3621a2f53198b865e5db653788</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-shrink">      <input class="hbe hbe-input-field hbe-input-field-shrink" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-shrink" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-shrink">請輸入密碼!</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">此文章為會員專屬文章!</summary>
+    
+    
+    
+    <category term="遊戲開發" scheme="https://ningning.netlify.app/categories/game-dev/"/>
+    
+    <category term="遊戲引擎" scheme="https://ningning.netlify.app/categories/game-dev/game-engine/"/>
+    
+    <category term="renpy" scheme="https://ningning.netlify.app/categories/game-dev/game-engine/renpy/"/>
+    
+    <category term="教學" scheme="https://ningning.netlify.app/categories/game-dev/game-engine/renpy/tutorial/"/>
+    
+    <category term="GUI" scheme="https://ningning.netlify.app/categories/game-dev/game-engine/renpy/tutorial/gui/"/>
+    
+    
+    <category term="Renpy教學" scheme="https://ningning.netlify.app/tags/pro-tutorial/"/>
+    
+    <category term="封面自訂系列" scheme="https://ningning.netlify.app/tags/custom-renpy-title/"/>
+    
+  </entry>
   
   <entry>
     <title>記住玩家選項 【Renpy教學】</title>
@@ -523,39 +554,6 @@
 &lt;li&gt;修復編輯器測試播放切換問題&lt;/li&gt;
 &lt;li&gt;修復 kojiken_map_3.txt 問題&lt;/li&gt;
 &lt;li&gt;修復了地圖上的地</summary>
-      
-    
-    
-    
-    <category term="遊戲開發" scheme="https://ningning.netlify.app/categories/game-dev/"/>
-    
-    <category term="遊戲引擎" scheme="https://ningning.netlify.app/categories/game-dev/game-engine/"/>
-    
-    <category term="lightVN" scheme="https://ningning.netlify.app/categories/game-dev/game-engine/lightvn/"/>
-    
-    
-    <category term="Light.VN 更新紀錄" scheme="https://ningning.netlify.app/tags/light-vn-update/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Light.VN 更新紀錄 |【2022-10-03更新】</title>
-    <link href="https://ningning.netlify.app/lightvn22-10-03/"/>
-    <id>https://ningning.netlify.app/lightvn22-10-03/</id>
-    <published>2023-09-26T04:35:35.580Z</published>
-    <updated>2023-01-21T15:27:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>版本: 13.4.1</strong></p><p><strong>更新重點整理:</strong></p><ul>    <li>實時預覽輕量化</li>    <li>使用 markdown 語法</li>    <li>新增使用 2D 素材構建 3D 地圖小遊戲的範例</li>    <li>可自由擴展相機</li>    <li>在 "LightTest" 中顯示引擎版本</li>    <li>顯示/反映更改語言時的改變</li>    <li>可以在按鍵觸發選項中看到按鍵的狀態</li>    <li>在各個選項卡上顯示螢幕區域信息</li>    <li>增加各種 Function (功能)</li>    <li>旋轉圖片現在可以受暫停命令影響</li>    <li>計算公式時顯示更多錯誤信息</li>    <li>夠在系統消息等命令中使用\n (換行符號 / 提示 - Renpy 也是使用 \n 當作換行符號)</li>    <li>增加使用圖像命令檢查圖像大小是否相同</li>    <li>添加命令 -&gt; 刪除全局信息</li>    <li>添加命令 -&gt; 添加圓形碰撞範圍</li>    <li>添加命令 -&gt;  3D 追蹤相機</li>    <li>添加命令 -&gt; 文字宏 (macro)</li>    <li>添加命令 -&gt; 系統對話框</li></ul><p><strong>優化:</strong></p><ul>    <li>實時預覽輕量化</li>    <li>部分錯誤發生時使用更明顯的音效</li>    <li>提高同步聲音的準確性</li></ul><p><span style="text-decoration: underline;"><strong>錯誤/功能修正:</strong></span></p><ul>    <li>由於 tilemap 導致強制關閉程式的問題</li>    <li>實時預覽和 csv 的問題</li>    <li>碰撞優先級的問題</li>    <li>圖像過場產生的問題</li>    <li>跳過指令相關的問題</li>    <li>實時預覽時的“重複執行”的問題</li></ul><ul><li><p>檔案大小為: 563 MB</p></li><li><p>目前使用 Light.VN 製作的視覺小說數量: 146 </p></li><li><p>2022 至今為次以推出了 14 個作品</p></li></ul><p><a href="https://wikiwiki.jp/lightvn/Lightvn_list/2022">可以參見這裡</a></p><p>我個人以畫風 &amp; 遊戲風格來說推薦的作品:</p><ul><li>ウィルと黄昏の旅</li></ul><p class="align-center">畫面預覽</p><p>Light.VN編輯器畫面:<br><div class="fj-gallery"><p><img src="/update221003/n1.png" alt="LightVN 編輯器"><br><img src="/update221003/n2.png" alt="LightVN 顯示人物遠近感"><br><img src="/update221003/n3.png" alt="LightVN 移動人物"><br><img src="/update221003/n4.png" alt="LightVN 使用動畫"></p>          </div></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;strong&gt;版本: 13.4.1&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;更新重點整理:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;實時預覽輕量化&lt;/li&gt;
-    &lt;li&gt;使用 markdown 語法&lt;/li&gt;
-    &lt;li&gt;新增使用 2D 素材構</summary>
       
     
     
