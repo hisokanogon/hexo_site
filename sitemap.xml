@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ningning.netlify.app/custom-style-position/</loc>
+    <loc>https://ningning.netlify.app/to-do-tutorial/</loc>
     
     <lastmod>2024-06-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/to-do-tutorial/</loc>
+    <loc>https://ningning.netlify.app/custom-style-position/</loc>
     
     <lastmod>2024-06-29</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/custom-launcher/</loc>
+    <loc>https://ningning.netlify.app/enter-name-screen/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/enter-name-screen/</loc>
+    <loc>https://ningning.netlify.app/custom-launcher/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/define-npcs/</loc>
+    <loc>https://ningning.netlify.app/character-interaction/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/character-interaction/</loc>
+    <loc>https://ningning.netlify.app/define-npcs/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -767,15 +767,6 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/transfer-to-hexo/</loc>
-    
-    <lastmod>2023-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ningning.netlify.app/new-year-event-2023/</loc>
     
     <lastmod>2023-01-21</lastmod>
@@ -786,6 +777,15 @@
   
   <url>
     <loc>https://ningning.netlify.app/newsletter/</loc>
+    
+    <lastmod>2023-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ningning.netlify.app/transfer-to-hexo/</loc>
     
     <lastmod>2023-01-21</lastmod>
     
@@ -812,15 +812,6 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/gui-017/</loc>
-    
-    <lastmod>2023-01-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ningning.netlify.app/gui012/</loc>
     
     <lastmod>2023-01-21</lastmod>
@@ -839,7 +830,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/lightvn22-10-03/</loc>
+    <loc>https://ningning.netlify.app/gui-017/</loc>
     
     <lastmod>2023-01-21</lastmod>
     
@@ -849,6 +840,15 @@
   
   <url>
     <loc>https://ningning.netlify.app/lightvn22-11-24/</loc>
+    
+    <lastmod>2023-01-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ningning.netlify.app/lightvn22-10-03/</loc>
     
     <lastmod>2023-01-21</lastmod>
     
@@ -1109,7 +1109,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/custom-say-screen/</loc>
+    <loc>https://ningning.netlify.app/custom-preferences-screen/</loc>
     
     <lastmod>2022-12-11</lastmod>
     
@@ -1118,7 +1118,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/custom-preferences-screen/</loc>
+    <loc>https://ningning.netlify.app/custom-say-screen/</loc>
     
     <lastmod>2022-12-11</lastmod>
     
@@ -1136,7 +1136,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/snow-effect/</loc>
+    <loc>https://ningning.netlify.app/maple-effect/</loc>
     
     <lastmod>2022-12-11</lastmod>
     
@@ -1145,7 +1145,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/maple-effect/</loc>
+    <loc>https://ningning.netlify.app/snow-effect/</loc>
     
     <lastmod>2022-12-11</lastmod>
     
@@ -1311,14 +1311,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/tags/itch-io/</loc>
-    <lastmod>2024-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ningning.netlify.app/tags/upload-game/</loc>
+    <loc>https://ningning.netlify.app/tags/ui-assets/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1332,14 +1325,21 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/tags/ui-assets/</loc>
+    <loc>https://ningning.netlify.app/tags/%E8%83%8C%E6%99%AF%E7%B4%A0%E6%9D%90/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/tags/%E8%83%8C%E6%99%AF%E7%B4%A0%E6%9D%90/</loc>
+    <loc>https://ningning.netlify.app/tags/itch-io/</loc>
+    <lastmod>2024-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ningning.netlify.app/tags/upload-game/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1388,13 +1388,6 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/tags/suika2/</loc>
-    <lastmod>2024-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ningning.netlify.app/tags/ai/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -1403,6 +1396,13 @@
   
   <url>
     <loc>https://ningning.netlify.app/tags/rpg-maker-custom-map/</loc>
+    <lastmod>2024-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ningning.netlify.app/tags/suika2/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1495,14 +1495,14 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/diary/</loc>
+    <loc>https://ningning.netlify.app/categories/announcement/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/announcement/</loc>
+    <loc>https://ningning.netlify.app/categories/diary/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1516,14 +1516,14 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/game-dev/</loc>
+    <loc>https://ningning.netlify.app/categories/material/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/material/</loc>
+    <loc>https://ningning.netlify.app/categories/game-dev/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1537,13 +1537,6 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/game-dev/game-engine/renpy/</loc>
-    <lastmod>2024-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ningning.netlify.app/categories/game-dev/game-engine/rpgmaker/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -1551,7 +1544,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/game-dev/game-engine/visual-novel-maker/</loc>
+    <loc>https://ningning.netlify.app/categories/game-dev/game-engine/tyranobuilder/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1565,7 +1558,7 @@
   </url>
   
   <url>
-    <loc>https://ningning.netlify.app/categories/game-dev/game-engine/tyranobuilder/</loc>
+    <loc>https://ningning.netlify.app/categories/game-dev/game-engine/renpy/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1594,6 +1587,13 @@
   
   <url>
     <loc>https://ningning.netlify.app/categories/game-dev/game-engine/suika2/</loc>
+    <lastmod>2024-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ningning.netlify.app/categories/game-dev/game-engine/visual-novel-maker/</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
